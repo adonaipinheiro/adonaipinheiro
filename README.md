@@ -5,12 +5,10 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964623773&text=Olá!)](https://api.whatsapp.com/send?phone=5511964623773&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adonaijpinheiro@gmail.com)](mailto:adonaijpinheiro@gmail.com)
 
-## Olá 👋
+---
 
-Meu nome é Adonai Pinheiro, apaixonado por Café.
-
-- :office_worker: Trabalhando como Desenvolvedor Sênior na **Cognizant**
 - :blue_heart: Techs: Java/Kotlin, Swift, React.js, React Native, Node.js, TypeScript e mais!
 - :books: Tecnologia é um meio.
+- :coffee: Apaixonado por café
 
 ---
