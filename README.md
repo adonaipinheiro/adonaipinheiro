@@ -1,16 +1,16 @@
-### Hi there 👋
+# Adonai Pinheiro :man_technologist:
 
-<!--
-**adonaipinheiro/adonaipinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/adonaipinheiro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonai-pinheiro/)](https://www.linkedin.com/in/adonai-pinheiro/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964623773&text=Olá!)](https://api.whatsapp.com/send?phone=5511964623773&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adonaijpinheiro@gmail.com)](mailto:adonaijpinheiro@gmail.com)
 
-Here are some ideas to get you started:
+## Olá 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Adonai Pinheiro, apaixonado por Café.
+
+- :office_worker: Trabalhando como Desenvolvedor Sênior na **Cognizant**
+- :blue_heart: Techs: Java/Kotlin, Swift, React.js, React Native, Node.js, TypeScript e mais!
+- :books: Tecnologia é um meio.
+
+---
