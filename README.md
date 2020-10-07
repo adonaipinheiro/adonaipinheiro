@@ -13,4 +13,9 @@
 
 ---
 
-[adonaipinheiro.dev](https://adonaipinheiro.dev)
+<!-- SOCIAL MEDIAS -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adonaipinheiro&show_icons=true" alt="miguelrisquelme"/>
+</p>
+
+<p align="center">https://adonaipinheiro.dev</p>
