@@ -2,7 +2,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/adonaipinheiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonai-pinheiro/)](https://www.linkedin.com/in/adonai-pinheiro/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adonaijpinheiro@gmail.com)](mailto:adonaijpinheiro@gmail.com)
 
 ---
 
